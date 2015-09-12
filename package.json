@@ -1,7 +1,7 @@
 {
   "name": "numeric-pattern",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The numeric pattern (triggers the numpad on mobile)",
   "license": "MIT",
   "repository": "bendrucker/numeric-pattern",
