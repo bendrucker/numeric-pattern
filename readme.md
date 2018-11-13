@@ -2,7 +2,7 @@
 
 > The numeric pattern (triggers the number pad on mobile)
 
-[![keypad](keypad.png)](http://bradfrost.com/blog/mobile/better-numerical-inputs-for-mobile-forms/)
+[![keypad](keypad.png)](http://bradfrost.com/blog/mobile/better-numerical-inputs-for-mobile-forms/) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/numeric-pattern.svg)](https://greenkeeper.io/)
 
 ## Install
 
